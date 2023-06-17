@@ -5,12 +5,13 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="getNaveSiteTests/homePage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="getNaveSiteTests/pricingPage.cs">
     <Files>
-      <File FileName="getNaveSiteTests/EmptyClass.cs" Line="1" Column="1" />
-      <File FileName="getNaveSiteTests/homePage.cs" Line="99" Column="51" />
+      <File FileName="getNaveSiteTests/homePage.cs" Line="45" Column="9" />
+      <File FileName="getNaveSiteTests/pricingPage.cs" Line="112" Column="1" />
       <File FileName="getNaveSiteTests/digitalCoursePage.cs" Line="1" Column="1" />
-      <File FileName="getNaveSiteTests/blogPage.cs" Line="1" Column="1" />
+      <File FileName="getNaveSiteTests/blogPage.cs" />
+      <File FileName="getNaveSiteTests/Usings.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +19,7 @@
           <Node name="getNaveSiteTests" expanded="True">
             <Node name="getNaveSiteTests" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="homePage.cs" selected="True" />
+              <Node name="pricingPage.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -28,7 +29,7 @@
           <Node name="getNaveSiteTests" expanded="True">
             <Node name="getNaveSiteTests" expanded="True">
               <Node name="getNaveSiteTests" expanded="True">
-                <Node name="Tests" expanded="True" />
+                <Node name="PricingPageTests" expanded="True" />
               </Node>
             </Node>
           </Node>
